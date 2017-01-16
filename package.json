@@ -1,0 +1,28 @@
+{
+  "name": "npm-license",
+  "description": "Find all the licences from your node modules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "immutable": "3.8.1",
+    "immutable-ext": "1.0.8"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesmcallister/npm-license.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jamesmcallister/npm-license/issues"
+  },
+  "homepage": "https://github.com/jamesmcallister/npm-license#readme"
+}
