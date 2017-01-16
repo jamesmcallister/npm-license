@@ -1,7 +1,7 @@
 {
   "name": "npm-license",
   "description": "Find all the licences from your node modules",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "dependencies": {
     "immutable": "3.8.1",
